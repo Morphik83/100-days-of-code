@@ -3,9 +3,9 @@
 ### Day 1: 10/06/2019 Monday
 
 **Today's Progress**: 
-Alg: Level Order Traversal 
+1. Alg: Level Order Traversal 
 - hints: add node to search queue, use levelsize + while within while (while search queue, while levelsize)
-Alg: Merge Intervals
+2. Alg: Merge Intervals
 - hints: 6 cases, better to sort on start, use class Interval(start, end)
 
 **Thoughts** Its my another attempt to complete 100 days of coding. This time I'd like to improve on coding-interview skills.
