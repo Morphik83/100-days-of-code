@@ -16,18 +16,19 @@
 3. [Merge Intervals](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5652017242439680)
 
 
-### Day X: 11/06/2019 Tuesday
+### Day 2: 11/06/2019 Tuesday
 
 **Today's Progress**:
 1. Abstract Base Classes: 
 https://www.python-course.eu/python3_abstract_classes.php
-2. 
+2. Alg: Remove Duplicates from linked list
 
 
 **Thoughts**
 
 **Link(s) to work**
 [Abstrac Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+[Remove Duplicates from linked list](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 
 
 TEMPLATE
