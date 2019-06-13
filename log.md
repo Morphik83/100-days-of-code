@@ -8,12 +8,14 @@
 2. Alg: Merge Intervals
 - hints: 6 cases, better to sort on start, use class Interval(start, end)
 
-**Thoughts** Its my another attempt to complete 100 days of coding. This time I'd like to improve on coding-interview skills.
+**Thoughts**
+Its my another attempt to complete 100 days of coding. This time I'd like to improve on coding-interview skills.
 
 **Link(s) to work**
 1. [BST Level-Order Traversal](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5726607939469312)
 2. [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)
 3. [Merge Intervals](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5652017242439680)
+
 
 
 ### Day 2: 11/06/2019 Tuesday
@@ -29,15 +31,15 @@ https://www.python-course.eu/python3_abstract_classes.php
 2. [Remove Duplicates from linked list](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
 
 
+
 ### Day 3: 12/06/2019 Wednesday
 
-**Today's Progress**: 
-0. review prev days 
-1. Alg: Reverse Linked List
-- hints: two pointers (prev, curr), use temp to store temp=curr.next
-2. Prime numbers 
 
-**Thoughts**
+**Today's Progress**:
+1. review prev days 
+2. Alg: Reverse Linked List
+- hints: two pointers (prev, curr), use temp to store temp=curr.next
+3. Prime numbers
 
 **Link(s) to work**
 1. [Reverse Linked List](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4519653420302336)
@@ -58,8 +60,6 @@ https://www.python-course.eu/python3_abstract_classes.php
 
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
-
 **Today's Progress**:
-
 
 **Link(s) to work**
