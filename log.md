@@ -55,7 +55,7 @@ https://www.python-course.eu/python3_abstract_classes.php
 
 **Link(s) to work**
 1. [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
-2.[Max subarray of size k](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
+2. [Max subarray of size k](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
 
 
 TEMPLATE
