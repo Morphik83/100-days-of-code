@@ -31,7 +31,7 @@ https://www.python-course.eu/python3_abstract_classes.php
 
 ### Day 3: 12/06/2019 Wednesday
 
-**Today's Progress**:
+**Today's Progress**: 
 0. review prev days 
 1. Alg: Reverse Linked List
 - hints: two pointers (prev, curr), use temp to store temp=curr.next
@@ -43,11 +43,23 @@ https://www.python-course.eu/python3_abstract_classes.php
 1. [Reverse Linked List](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4519653420302336)
 2. [Prime Numbers](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?isFullScreen=false)
 
+
+### Day 4: 13/06/2019 Thursday
+
+**Today's Progress**:
+1. Nested Logic 
+2. Max subarray of size k
+
+
+**Link(s) to work**
+1. [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+2.[Max subarray of size k](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
+
+
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 
 **Today's Progress**:
 
-**Thoughts**
 
 **Link(s) to work**
