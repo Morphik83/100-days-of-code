@@ -58,6 +58,18 @@ https://www.python-course.eu/python3_abstract_classes.php
 2.[Max subarray of size k](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
 
 
+### Day 5: 14/06/2019 Friday
+**Today's Progress**:
+1. Average of all subarrays of size K
+2. Attempted to resolve 'Power of Thor - episode 1', but managed to resolve 
+only 2/4 cases. 
+
+
+**Link(s) to work**
+1. [Average of all subarrays of size K](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6658855733821440)
+2. [Power of Thor - episode 1](https://www.codingame.com/ide/puzzle/power-of-thor-episode-1)
+
+
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 **Today's Progress**:
