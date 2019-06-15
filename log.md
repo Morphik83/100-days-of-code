@@ -70,6 +70,19 @@ only 2/4 cases.
 2. [Power of Thor - episode 1](https://www.codingame.com/ide/puzzle/power-of-thor-episode-1)
 
 
+### Day 6: 15/06/2019 Saturday
+**Today's Progress**:
+1. Static methods vs. class methods
+2. Testing 
+
+
+
+**Link(s) to work**
+1. [static vs. class](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner?rq=1)
+2. [static vs. class](https://www.programiz.com/python-programming/methods/built-in/staticmethod)
+3. [testing](https://www.hackerrank.com/challenges/30-testing)
+
+
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 **Today's Progress**:
