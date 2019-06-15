@@ -73,14 +73,17 @@ only 2/4 cases.
 ### Day 6: 15/06/2019 Saturday
 **Today's Progress**:
 1. Static methods vs. class methods
-2. Testing 
-
+2. Testing
+3. Max Sum Subarray of Size K
+hints: window_start=0, window_end=0, itarate over arr until we >= k-1, then
+check curren_sum > max_sum, then subtract first element and add next element.
 
 
 **Link(s) to work**
 1. [static vs. class](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner?rq=1)
 2. [static vs. class](https://www.programiz.com/python-programming/methods/built-in/staticmethod)
 3. [testing](https://www.hackerrank.com/challenges/30-testing)
+4. [Max Sum Subarray of Size K](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
 
 
 TEMPLATE
