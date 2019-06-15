@@ -75,7 +75,7 @@ only 2/4 cases.
 1. Static methods vs. class methods
 2. Testing
 3. Max Sum Subarray of Size K
-hints: window_start=0, window_end=0, itarate over arr until we >= k-1, then
+- hints: window_start=0, window_end=0, itarate over arr until we >= k-1, then
 check curren_sum > max_sum, then subtract first element and add next element.
 
 
