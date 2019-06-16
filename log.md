@@ -86,6 +86,18 @@ check curren_sum > max_sum, then subtract first element and add next element.
 4. [Max Sum Subarray of Size K](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5177043027230720)
 
 
+### Day 7: 16/06/2019 Sunday
+**Today's Progress**:
+1. study bit operations (alg: bits_power_of_two, )
+2. all_subsets_of_a_set
+hints: for n-len array, there are 2**n subsets. generate (for i in range(1<<n))
+masks, then check where 1's are in each mask (for i in range(n))
+(mask>>1)&1 and if true, add a[i] to subset. 
+
+**Link(s) to work**
+
+
+	
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 **Today's Progress**:
