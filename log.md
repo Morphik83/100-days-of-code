@@ -98,6 +98,18 @@ then check where 1's are in each mask (for i in range(n))
 **Link(s) to work**
 
 
+### Day 8: 17/06/2019 Monday
+**Today's Progress**:
+1. Repeat all from last 7 days 
+2. (Two pointers) Pair with Target Sum (in *sorted* array)
+hints:  two pointers, one at start, second at end. if arr[st] + arr[end] bigger
+than target_sum, then decrease end pointer, otherwise, increment start pointer. 
+hints: hash table (store val:index and search for target-num == val)
+
+**Link(s) to work**
+1. [Pair with Target Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6618310940557312)
+
+
 	
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
