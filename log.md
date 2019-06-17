@@ -90,10 +90,10 @@ check curren_sum > max_sum, then subtract first element and add next element.
 **Today's Progress**:
 1. study bit operations (alg: bits_power_of_two, )
 2. all_subsets_of_a_set
-hints: for n-len array, there are 2**n subsets. generate (for i in range(1<<n))
+hints: for n-len array, there are 2**n subsets. generate masks (for i in range(1<<n)) 
+then check where 1's are in each mask (for i in range(n))
+(mask>>i)&1 and if true, add a[i] to subset. 
 3. count set bits (x&(x-1))
-masks, then check where 1's are in each mask (for i in range(n))
-(mask>>1)&1 and if true, add a[i] to subset. 
 
 **Link(s) to work**
 
