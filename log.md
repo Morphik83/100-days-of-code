@@ -110,7 +110,16 @@ than target_sum, then decrease end pointer, otherwise, increment start pointer.
 1. [Pair with Target Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6618310940557312)
 
 
-	
+### Day 9: 18/06/2019 Tuesday
+**Today's Progress**:
+1. bitwise AND
+
+**Thoughts**: I am stuck with this problem
+
+**Link(s) to work**
+1. [bit wise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+
+
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 **Today's Progress**:
