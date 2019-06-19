@@ -120,6 +120,33 @@ than target_sum, then decrease end pointer, otherwise, increment start pointer.
 1. [bit wise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
 
 
+### Day 10: 18/06/2019 Wednesday
+**Today's Progress**:
+1. bitwise AND
+
+**Thoughts**: 
+Eventually I made it - stupid small mistake ...
+"""
+# this throws Timeout!
+if max_so_far < m < k:
+max_so_far = m
+if max_so_far == k-1:
+return max_so_far
+# both ifs are evaluated in each iteration,
+
+# this works, as second 'if' is evaluated only 
+# when first 'if' is true, so number of operations here
+# goes down by ~50% 
+if max_so_far < m < k:
+max_so_far = m
+if max_so_far == k-1:
+  return max_so_far
+"""
+
+**Link(s) to work**
+1. [bit wise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+
+
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 **Today's Progress**:
