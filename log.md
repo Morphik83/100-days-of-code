@@ -120,7 +120,7 @@ than target_sum, then decrease end pointer, otherwise, increment start pointer.
 1. [bit wise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
 
 
-### Day 10: 18/06/2019 Wednesday
+### Day 10: 19/06/2019 Wednesday
 **Today's Progress**:
 1. bitwise AND
 
@@ -143,6 +143,17 @@ if max_so_far < m < k:
 
 **Link(s) to work**
 1. [bit wise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+
+
+### Day 11: 20/06/2019 Thursday
+**Today's Progress**:
+1. Linked Lists: has_cycle(head), find_cycle_length(head)
+hints: slow pointer, fast pointer - if has_cycle, they meet
+hints: length: if has_cycle => save meet_node and count how many times slow pointer needs to move to reach meet_node again
+
+
+**Link(s) to work**
+1. [LinkedList: has_cycle and find_cycle_length](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6556337280385024)
 
 
 TEMPLATE
