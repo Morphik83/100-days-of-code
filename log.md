@@ -136,8 +136,7 @@ if max_so_far < m < k:
 ---
 ### Day 11: 20/06/2019 Thursday
 **Today's Progress**:
-1. Linked Lists:  
-has_cycle(head), find_cycle_length(head)  
+1. Linked Lists: has_cycle(head), find_cycle_length(head)  
 -hints: slow pointer, fast pointer - if has_cycle, they meet  
 -hints: length: if has_cycle => save meet_node and count how many times slow pointer needs to move to reach meet_node again
 
