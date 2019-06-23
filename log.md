@@ -151,6 +151,16 @@ if max_so_far < m < k:
 **Link(s) to work**
 1. [Cyclic Sort](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6003980930908160)
 
+---
+### Day 13: 23/06/2019 Sunday
+**Today's Progress**:
+1. Continue with Cyclic Sort 
+-hints: 1. check if nums[i]==i-1 (assign j=nums[i]-1 and check if nums[i]==nums[j])
+if not equal, then move swap swap(nums, i, j) - by swapping be put value in index j in the sorted position. At the same time we keep checking if nums[i]==i-1, if true, we move to the next i (while i<len(nums))
+-hints: 2. keep two variables (x=nums[i] and temp=nums[i-1])
+
+**Link(s) to work**
+1. [Cyclic Sort - 3 solutions](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6003980930908160)
 
 ---
 TEMPLATE
@@ -159,3 +169,4 @@ TEMPLATE
 **Today's Progress**:
 
 **Link(s) to work**
+
