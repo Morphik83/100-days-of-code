@@ -154,13 +154,25 @@ if max_so_far < m < k:
 ---
 ### Day 13: 23/06/2019 Sunday
 **Today's Progress**:
-1. Continue with Cyclic Sort  
+1. Continue with Cyclic Sort 
 -hints: 1. check if nums[i]==i-1 (assign j=nums[i]-1 and check if nums[i]==nums[j])
-if not equal, then move swap swap(nums, i, j) - by swapping be put value in index j in the sorted position. At the same time we keep checking if nums[i]==i-1, if true, we move to the next i (while i<len(nums))
+if not equal, then move swap swap(nums, i, j) - by swapping be put value in index j in the sorted position. At the same time we keep checking if nums[i]==i-1, if true, we move to the next i (while i < len(nums))
 -hints: 2. keep two variables (x=nums[i] and temp=nums[i-1])
 
 **Link(s) to work**
 1. [Cyclic Sort - 3 solutions](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6003980930908160)
+
+---
+### Day 14: 11/06/2019 Monday
+**Today's Progress**:
+1. Revise last 13 days  
+2. Find the median of a number stream  
+
+**Thoughts***
+did not finish alg question - started to read about heap and how to use it
+
+**Link(s) to work**
+1. [find a median of a number stream](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6308926461050880)
 
 ---
 TEMPLATE
