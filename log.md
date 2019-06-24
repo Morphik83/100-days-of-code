@@ -168,7 +168,7 @@ if not equal, then move swap swap(nums, i, j) - by swapping be put value in inde
 1. Revise last 13 days  
 2. Find the median of a number stream  
 
-**Thoughts***
+**Thoughts**
 did not finish alg question - started to read about heap and how to use it
 
 **Link(s) to work**
