@@ -163,7 +163,7 @@ if not equal, then move swap swap(nums, i, j) - by swapping be put value in inde
 1. [Cyclic Sort - 3 solutions](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6003980930908160)
 
 ---
-### Day 14: 11/06/2019 Monday
+### Day 14: 24/06/2019 Monday
 **Today's Progress**:
 1. Revise last 13 days  
 2. Find the median of a number stream  
@@ -173,6 +173,16 @@ did not finish alg question - started to read about heap and how to use it
 
 **Link(s) to work**
 1. [find a median of a number stream](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6308926461050880)
+
+---
+### Day 15: 25/06/2019 Tuesday
+**Today's Progress**:
+1. arr of strictly positive int - find indx where left_sum == right_sum  
+2. subsets (powerSet)  
+-hints: bitwise (see day 7) or BFS
+
+**Link(s) to work**
+2. [Subsets](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5670249378611200)
 
 ---
 TEMPLATE
