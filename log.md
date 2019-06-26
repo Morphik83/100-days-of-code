@@ -185,6 +185,19 @@ did not finish alg question - started to read about heap and how to use it
 2. [Subsets](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5670249378611200)
 
 ---
+### Day X: 16/06/2019 Wednesday
+**Today's Progress**:
+1. subsets (powerSet)
+-hints: BFS. Iterate over num in nums -> check length (n) of results array so far -> iterate over 'so far' created subsets n-times -> create a copy of exisiting subset and append 'num' to a copy to create new subset -> append subset to results -> pick next num -> check length n of results -> iterate n-times over results and create new subsets ... etc.
+2. BST: height (1+ max(height(root.left), height(root.right)))
+3. Binary Tree Path Sum
+
+**Link(s) to work**
+1. [Subsets](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5670249378611200)
+2. [binary-search-trees](https://www.hackerrank.com/challenges/30-binary-search-trees/tutorial)
+3. [Binary Tree Path Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5642684278505472)
+
+---
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 
