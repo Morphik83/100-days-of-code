@@ -209,6 +209,16 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 1. [DFS: Binary Tree Path Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5642684278505472)
 
 ---
+### Day 18: 28/06/2019 Friday
+**Today's Progress**:
+1. All paths for a sum 
+-hints: keep array all_paths = [] - if path found, append node to it. return all_paths from each (recursive) call. If root is None, return empty array. No need to use backtracking.
+
+**Link(s) to work**
+1. [All paths for a sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5675214360805376)
+
+
+---
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 
