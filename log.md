@@ -185,7 +185,7 @@ did not finish alg question - started to read about heap and how to use it
 2. [Subsets](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5670249378611200)
 
 ---
-### Day X: 16/06/2019 Wednesday
+### Day 16: 26/06/2019 Wednesday
 **Today's Progress**:
 1. subsets (powerSet)
 -hints: BFS. Iterate over num in nums -> check length (n) of results array so far -> iterate over 'so far' created subsets n-times -> create a copy of exisiting subset and append 'num' to a copy to create new subset -> append subset to results -> pick next num -> check length n of results -> iterate n-times over results and create new subsets ... etc.
@@ -196,6 +196,17 @@ did not finish alg question - started to read about heap and how to use it
 1. [Subsets](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5670249378611200)
 2. [binary-search-trees](https://www.hackerrank.com/challenges/30-binary-search-trees/tutorial)
 3. [Binary Tree Path Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5642684278505472)
+
+---
+### Day 17: 27/06/2019 Thursday
+**Today's Progress**:
+1. DFS: Binary Tree Path Sum
+-hints: recursively check if node is a leaf node and if its value == sum.  
+At each call (if node is not a leaf), subtract from sum -= node.val,  
+and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.val))
+
+**Link(s) to work**
+1. [DFS: Binary Tree Path Sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5642684278505472)
 
 ---
 TEMPLATE
