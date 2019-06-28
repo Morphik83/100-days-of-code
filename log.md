@@ -187,7 +187,7 @@ did not finish alg question - started to read about heap and how to use it
 ---
 ### Day 16: 26/06/2019 Wednesday
 **Today's Progress**:
-1. subsets (powerSet)
+1. subsets (powerSet)  
 -hints: BFS. Iterate over num in nums -> check length (n) of results array so far -> iterate over 'so far' created subsets n-times -> create a copy of exisiting subset and append 'num' to a copy to create new subset -> append subset to results -> pick next num -> check length n of results -> iterate n-times over results and create new subsets ... etc.
 2. BST: height (1+ max(height(root.left), height(root.right)))
 3. Binary Tree Path Sum
@@ -200,7 +200,7 @@ did not finish alg question - started to read about heap and how to use it
 ---
 ### Day 17: 27/06/2019 Thursday
 **Today's Progress**:
-1. DFS: Binary Tree Path Sum
+1. DFS: Binary Tree Path Sum  
 -hints: recursively check if node is a leaf node and if its value == sum.  
 At each call (if node is not a leaf), subtract from sum -= node.val,  
 and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.val))
@@ -211,7 +211,7 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 ---
 ### Day 18: 28/06/2019 Friday
 **Today's Progress**:
-1. All paths for a sum 
+1. All paths for a sum  
 -hints: keep array all_paths = [] - if path found, append node to it. return all_paths from each (recursive) call. If root is None, return empty array. No need to use backtracking.
 
 **Link(s) to work**
