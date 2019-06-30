@@ -226,7 +226,13 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 **Link(s) to work**
 1. [All paths for a sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5714315743068160)
 
+---
+### Day 20: 30/06/2019 Sunday
+**Today's Progress**:
+1. Order-agnostic Binary Search 
 
+**Link(s) to work**
+1.[Order-agnostic Binary Search](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6304110192099328)
 
 ---
 TEMPLATE
