@@ -211,11 +211,21 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 ---
 ### Day 18: 28/06/2019 Friday
 **Today's Progress**:
-1. All paths for a sum  
--hints: keep array all_paths = [] - if path found, append node to it. return all_paths from each (recursive) call. If root is None, return empty array. No need to use backtracking.
+1. (only count) All paths for a sum  
+-hints: keep track of variable count - if path found, increae count by 1. return count var from each (recursive) call. If root is None, return 0. No need to use backtracking.
 
 **Link(s) to work**
 1. [All paths for a sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5675214360805376)
+
+---
+### Day 19: 29/06/2019 Saturday
+**Today's Progress**:
+1. (find actual paths) All paths for a sum  
+-hints: not the same as yesterday, as today we keep track of the nodes that sum up to given sum. To do that we need to backtrack visited nodes. Function call has 4 args(currNode, sum, currPath, allNodes). currNode is either left or right child, sum is decreased with each recursive call by the node.val, currPath is updated with each function call (either append if going down the tree or del when going up the tree). allPaths is updated with currPath only when we find such path where all the node's values sum up to given sum.
+
+**Link(s) to work**
+1. [All paths for a sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5714315743068160)
+
 
 
 ---
