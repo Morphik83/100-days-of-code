@@ -235,6 +235,15 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 1.[Order-agnostic Binary Search](https://www.educative.io/collection/page/5668639101419520/5671464854355968/6304110192099328)
 
 ---
+### Day 21: 01/07/2019 Monday
+**Today's Progress**:
+1. Resolved problem from yesterday (Order-agnostic Binary Search )
+2. started to read about heap in Python and related issues.
+
+**Link(s) to work**
+
+
+---
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 
