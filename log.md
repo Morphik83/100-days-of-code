@@ -241,6 +241,7 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 2. started to read about heap in Python and related issues.
 
 **Link(s) to work**
+1. [Top K numbers](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5728885882748928)
 
 
 ---
