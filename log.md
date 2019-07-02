@@ -243,6 +243,13 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 **Link(s) to work**
 1. [Top K numbers](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5728885882748928)
 
+---
+### Day 22: 02/07/2019 Tuesday
+**Today's Progress**:
+1. Revise algorithms studied so far.
+
+**Link(s) to work**
+
 
 ---
 TEMPLATE
