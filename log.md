@@ -248,8 +248,19 @@ and go (has_path(node.left, sum - node.val) or has_path(node.right, sum - node.v
 **Today's Progress**:
 1. Revise algorithms studied so far.
 
-**Link(s) to work**
+---
+### Day 23: 03/06/2019 Wednesday
+**Today's Progress**:
+1. Read about HEAPs in Python 
+2. Merge K-sorted Linked Lists
+-hints: brute force. add all elements of all linked lists to one list and sort it. 
 
+** Thoughts  
+Today I did brute force - tomorrow, rewrite with heapq
+
+**Link(s) to work**
+1. [Heap](https://www.tutorialspoint.com/python/python_heaps.htm)
+2. [Merge k-sorted linked lists](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4611799594827776)
 
 ---
 TEMPLATE
