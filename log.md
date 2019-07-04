@@ -263,6 +263,18 @@ Today I did brute force - tomorrow, rewrite with heapq
 2. [Merge k-sorted linked lists](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4611799594827776)
 
 ---
+### Day 24: 04/07/2019 Thursday
+**Today's Progress**:
+1. Heapq [heapify, heappush, heappop, heappushpop, heapreplace(first pop then push!), nlargest, nsmallest]
+2. Rich comparisons in Python: Classes can define new special methods __lt__, __le__, __eq__, __ne__, __gt__, __ge__ to override the corresponding operators. (I.e., <, <=, ==, !=, >, >=)
+3. Solved Merge K-sorted Linked Lists with heap
+
+**Link(s) to work**
+1. [Merge k-sorted linked lists](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4611799594827776)
+
+
+
+---
 TEMPLATE
 ### Day X: 11/06/2019 Tuesday
 
