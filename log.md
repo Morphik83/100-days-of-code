@@ -272,6 +272,17 @@ Today I did brute force - tomorrow, rewrite with heapq
 **Link(s) to work**
 1. [Merge k-sorted linked lists](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4611799594827776)
 
+---
+### Day 25: 06/07/2019 Saturday
+**Today's Progress**:
+1. Started to read about Knapsack problem 
+
+**Link(s) to work**
+1. [Knapsack](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5008218180812800)
+
+
+
+
 
 
 ---
