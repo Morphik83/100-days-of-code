@@ -287,11 +287,16 @@ Today I did brute force - tomorrow, rewrite with heapq
 -hints: from book 'Grokking algorithms', p.146 (radio stations)
 2. 0-1 Knapsack Problem with Memoization   
 
-**Link(s) to work**
-2. [Knapsack](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5008218180812800)
+**Link(s) to work**  
+2. [Knapsack](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5008218180812800)  
 2a. [good YT explanation of Knapsack with memoization](https://www.youtube.com/watch?v=xOlhR_2QCXY)
 
+---
+### Day 29: 08/07/2019 Monday
+**Today's Progress**:
+-refresh all algs from previous days
 
+**Link(s) to work**
 
 
 ---
