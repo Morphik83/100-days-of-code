@@ -292,7 +292,7 @@ Today I did brute force - tomorrow, rewrite with heapq
 2a. [good YT explanation of Knapsack with memoization](https://www.youtube.com/watch?v=xOlhR_2QCXY)
 
 ---
-### Day 29: 08/07/2019 Monday
+### Day 27: 08/07/2019 Monday
 **Today's Progress**:
 -refresh all algs from previous days
 
