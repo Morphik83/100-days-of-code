@@ -298,6 +298,17 @@ Today I did brute force - tomorrow, rewrite with heapq
 
 **Link(s) to work**
 
+---
+### Day 28: 09/07/2019 Tuesday
+**Today's Progress**:
+1. find k-th largest 
+-hints: use heap
+2. smallest subarray with a given sum 
+
+**Link(s) to work**
+1. [k-th largest](https://stackoverflow.com/questions/38806202/whats-the-time-complexity-of-functions-in-heapq-library)
+2. [smallest subarray with a given sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4578892830474240)
+
 
 ---
 TEMPLATE
