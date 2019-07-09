@@ -293,7 +293,7 @@ Today I did brute force - tomorrow, rewrite with heapq
 
 ---
 ### Day 27: 08/07/2019 Monday
-**Today's Progress**:
+**Today's Progress**:  
 -refresh all algs from previous days
 
 **Link(s) to work**
