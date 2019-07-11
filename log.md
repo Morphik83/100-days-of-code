@@ -309,6 +309,15 @@ Today I did brute force - tomorrow, rewrite with heapq
 1. [k-th largest](https://stackoverflow.com/questions/38806202/whats-the-time-complexity-of-functions-in-heapq-library)
 2. [smallest subarray with a given sum](https://www.educative.io/collection/page/5668639101419520/5671464854355968/4578892830474240)
 
+---
+### Day 29: 11/07/2019 Thursday
+**Today's Progress**:
+1. Smallest Sum Subarray of Size K  
+
+**Link(s) to work**
+1. [Smallest Sum Subarray of Size K](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5698217712812032)
+
+
 
 ---
 TEMPLATE
