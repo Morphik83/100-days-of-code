@@ -317,6 +317,13 @@ Today I did brute force - tomorrow, rewrite with heapq
 **Link(s) to work**
 1. [Smallest Sum Subarray of Size K](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5698217712812032)
 
+---
+### Day 30: 13/06/2019 Saturday
+**Today's Progress**:
+1. Longest Substring with K Distinct Characters
+
+**Link(s) to work**
+1. [Longest Substring with K Distinct Characters (medium)](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5698217712812032)
 
 
 ---
