@@ -325,6 +325,11 @@ Today I did brute force - tomorrow, rewrite with heapq
 **Link(s) to work**
 1. [Longest Substring with K Distinct Characters (medium)](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5698217712812032)
 
+---
+### Day 31: 15/07/2019 Monday
+**Today's Progress**:
+1. [Remove Duplicates](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5070198568648704)
+
 
 ---
 TEMPLATE
