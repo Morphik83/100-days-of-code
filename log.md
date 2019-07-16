@@ -330,6 +330,12 @@ Today I did brute force - tomorrow, rewrite with heapq
 **Today's Progress**:
 1. [Remove Duplicates](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5070198568648704)
 
+---
+### Day 32: 16/07/2019 Tuesday
+**Today's Progress**:
+1. [Given an unsorted array of numbers and a target ‘key’, remove all instances of ‘key’ in-place and return the new length of the array.](https://www.educative.io/collection/page/5668639101419520/5671464854355968/5070198568648704)
+
+
 
 ---
 TEMPLATE
@@ -338,4 +344,3 @@ TEMPLATE
 **Today's Progress**:
 
 **Link(s) to work**
-
